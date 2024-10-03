@@ -1,2 +1,2 @@
 # Customer Churn and Sentiment Analysis
-This repository contains two ml class deployment project
+This repository contains two ml deployment class I tutored.
